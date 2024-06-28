@@ -1,0 +1,1 @@
+Our travel website aims to provide users with a seamless experience for exploring destinations, planning trips, and booking accommodations and activities. This README file serves as a guide to help you understand the structure of our front-end application and how to contribute to its development.
